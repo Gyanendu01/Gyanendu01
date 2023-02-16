@@ -28,7 +28,7 @@ Can work in a team as well as independently with minimal time management skills.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/linkedin.com/in/gyanendu-bikash-boitai-a91b1b186" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/145/145807.png" alt="linkedin.com/in/gyanendu-bikash-boitai-a91b1b186" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/gyanendu-bikash-boitai-a91b1b186/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/145/145807.png" alt="linkedin.com/in/gyanendu-bikash-boitai-a91b1b186" height="30" width="40" /></a>
 <a href="https://instagram.com/__gyanendu__" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_s5ulE8O10lNNlCu1zxCqWMsWmZ7UNcHnbP-AKCaFQ3err11uiH94bBJpiOYMFoOHdJM&usqp=CAU" alt="__gyanendu__" height="30" width="40" /></a>
 </p>
 
