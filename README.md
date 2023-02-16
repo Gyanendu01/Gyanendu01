@@ -1,4 +1,4 @@
-[![MasterHead](https://miro.medium.com/max/1400/0*0O5n9x6pzlJ5qLkC.gif)]
+![MasterHead](https://miro.medium.com/max/1400/0*0O5n9x6pzlJ5qLkC.gif)
 <h1 align="center">Hi 👋, I'm Gyanendu Bikash Boitai</h1>
 <h3 align="center">I am an aspiring Fullstack Web Developer </h3>
 <p>🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟 </p>
