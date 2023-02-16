@@ -1,6 +1,6 @@
-[![MasterHead](https://miro.medium.com/max/1400/1*lhOax3cZATGZwEhG0uTYRA.gif)]
+[![MasterHead](https://miro.medium.com/max/1400/0*0O5n9x6pzlJ5qLkC.gif)]
 <h1 align="center">Hi 👋, I'm Gyanendu Bikash Boitai</h1>
-<h3 align="center">I am an aspiring Fullstack Java Developer </h3>
+<h3 align="center">I am an aspiring Fullstack Web Developer </h3>
 <p>🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟 </p>
 <P>I am a first year student at ITER,SOA,Bhubaneswar. My love for technology and coding made me choose Computer Science and engineering department at our university.
 I aspire to become a software engineer.
@@ -15,9 +15,9 @@ Can work in a team as well as independently with minimal time management skills.
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gyanendu01&label=Profile%20views&color=0e75b6&style=flat" alt="gyanendu01" /> </p>
 
-- 🌱 I’m currently learning **spring boot,hybernate,JDBC**
+- 🌱 I’m currently learning **React,Node.js,Express.js**
 
-- 💬 Ask me about **Java,html,css**
+- 💬 Ask me about **Javascript,html,css**
 
 - 📫 How to reach me **gyanenduboitai2004@gmail.com**
 
