@@ -2,10 +2,7 @@
 <h1 align="center">Hi 👋, I'm Gyanendu Bikash Boitai</h1>
 <h3 align="center">I am a Fullstack Software Engineer </h3>
 <p>🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟 </p>
-<P>I am a first year student at ITER,SOA,Bhubaneswar. My love for technology and coding made me choose Computer Science and engineering department at our university.
-I aspire to become a software engineer.
-
-Can work in a team as well as independently with minimal time management skills. Good at interpersonal communication and can easily adapt to new situations. Also a quick learner who can absorb new ideas.</p>
+<P>During the day, I'm a fullstack software engineer, but as soon as I clock out, I trade in my keyboard for a cookbook and a good book. When the weekend hits, you'll find me cycling through new places and connecting with people. And don't let my A+ grades fool you - my code may be bug-free, but my culinary experiments aren't always as successful!.</p>
 <PRE>Always ready to 
 🤹  learn new skills
 🏆  Take guidance from seniors and industry experts
