@@ -1,5 +1,4 @@
-
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3g1Nm15eWViZTZ3M2I0cXlwaGl1eDNwaWd0MXV0MGoxMDN3a2pibiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pwZQlBeGlWGEWiDVle/giphy.gif" width="900" height="300">
+![MasterHead align="center"](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3g1Nm15eWViZTZ3M2I0cXlwaGl1eDNwaWd0MXV0MGoxMDN3a2pibiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pwZQlBeGlWGEWiDVle/giphy.gif)
 <h1 align="center">Hi 👋, I'm Gyanendu Bikash Boitai</h1>
 <h3 align="center">I am a Fullstack Software Engineer </h3>
 <p>🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖 </p>
