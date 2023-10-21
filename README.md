@@ -1,4 +1,4 @@
-![MasterHead](https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2Fbpxxqqvps4h91.gif)
+![MasterHead](https://gifyu.com/image/S6ArQ)
 <h1 align="center">Hi 👋, I'm Gyanendu Bikash Boitai</h1>
 <h3 align="center">I am a Fullstack Software Engineer </h3>
 <p>🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖 </p>
