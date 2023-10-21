@@ -1,4 +1,4 @@
-![MasterHead](https://miro.medium.com/max/1400/0*0O5n9x6pzlJ5qLkC.gif)
+![MasterHead](https://gifdb.com/images/high/pixel-art-animated-toyoi-yuuta-yl28fl6e0r6ozvvk.gif)
 <h1 align="center">Hi 👋, I'm Gyanendu Bikash Boitai</h1>
 <h3 align="center">I am a Fullstack Software Engineer </h3>
 <p>🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖 </p>
