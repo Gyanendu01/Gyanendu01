@@ -1,4 +1,4 @@
-![MasterHead](https://gifdb.com/images/high/pixel-art-animated-toyoi-yuuta-yl28fl6e0r6ozvvk.gif)
+![MasterHead](https://steamcommunity.com/sharedfiles/filedetails/?id=2780818220)
 <h1 align="center">Hi 👋, I'm Gyanendu Bikash Boitai</h1>
 <h3 align="center">I am a Fullstack Software Engineer </h3>
 <p>🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖 </p>
