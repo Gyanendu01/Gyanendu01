@@ -38,8 +38,9 @@
 
 ### ✍️ Random Dev Quote
 <p align="center">
-(https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight)
+  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight">
 </p>
+
 ---
 
 [![](https://visitcount.itsvg.in/api?id=gyanendu01&icon=6&color=11)](https://visitcount.itsvg.in)
