@@ -11,7 +11,7 @@
 🌱  Adapt to new environments
 👨🏻‍💻  Work hard to bring some new changes everyday</PRE>
 <p>🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖</p>
-<img align="right" alt="Coding"  src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGUzOTZlMzhlNTM4MmE1ZTY1NGNiNGQwNWQ4OWY1NTcyNzQyZWU0NiZjdD1n/m6lJwNp9xVT1OzGfHb/giphy.gif">
+<img align="right" alt="Coding" height=270 width=480 src="https://ibb.co/yYc7DXf">
 
 # 💫 About Me:
 🌱 I’m currently learning React,Node.js,Express.js<br><br>💬 Ask me about Javascript,html,css<br><br>📫 How to reach me gyanenduboitai2004@gmail.com<br><br>⚡ Fun fact I'm a fullstack software engineer, which means I can both create bugs and fix them. It's like being a superhero with the power of causing and solving problems, all with the stroke of a keyboard.
