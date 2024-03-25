@@ -12,8 +12,6 @@
 👨🏻‍💻  Work hard to bring some new changes everyday</PRE>
 <p>🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖</p>
 ![Coding](/1708103825033.jpg)
-<img align="right" alt="Coding" height=270 width=480 src="https://photos.app.goo.gl/SZ1FdDK6aTHcGqts8">
-
 # 💫 About Me:
 🌱 I’m currently learning React,Node.js,Express.js<br><br>💬 Ask me about Javascript,html,css<br><br>📫 How to reach me gyanenduboitai2004@gmail.com<br><br>⚡ Fun fact I'm a fullstack software engineer, which means I can both create bugs and fix them. It's like being a superhero with the power of causing and solving problems, all with the stroke of a keyboard.
 
