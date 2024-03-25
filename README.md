@@ -11,6 +11,7 @@
 🌱  Adapt to new environments
 👨🏻‍💻  Work hard to bring some new changes everyday</PRE>
 <p>🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖</p>
+![Coding](/1708103825033.jpg)
 <img align="right" alt="Coding" height=270 width=480 src="https://photos.app.goo.gl/SZ1FdDK6aTHcGqts8">
 
 # 💫 About Me:
